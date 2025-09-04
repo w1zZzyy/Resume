@@ -11,15 +11,17 @@
 - Google Tests  
 - Userver  
 - CUDA  
+- Boost.Asio
 
 ## Опыт
 
 - отобрался и окончил летнюю Школу Бэкенд Разработки от Яндекса
-    ![Подтверждение ШБР](docs/ШБР-preview.png)  
-    [Скачать PDF с подтверждением](docs/ШБР.pdf)
+    [PDF подтверждение](docs/ШБР.pdf)
 
-- шахматный движок: [Attempt101](https://github.com/w1zZzyy/Attempt101)  
+- Шахматы с AI: [ChessAI](https://github.com/w1zZzyy/Attempt101)  
     запуск (пока что только на линуксе)
     ```bash 
     make run-desktop-release
     ```
+
+- многопользовательский чат: [Chat](https://github.com/w1zZzyy/MicroMess)
