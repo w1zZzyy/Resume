@@ -19,9 +19,5 @@
     [PDF подтверждение](docs/ШБР.pdf)
 
 - Шахматы с AI: [ChessAI](https://github.com/w1zZzyy/Attempt101)  
-    запуск (пока что только на линуксе)
-    ```bash 
-    make run-desktop-release
-    ```
 
 - многопользовательский чат: [Chat](https://github.com/w1zZzyy/MicroMess)
